@@ -1,0 +1,110 @@
+1;mariah carey;we belong together;2000;pop
+2;usher;yeah! (feat. lil jon & ludacris);2000;rap
+3;flo rida;low (feat. t-pain);2000;pop
+4;black eyed peas;i gotta feeling;2000;pop
+5;nickelback;how you remind me;2000;rock
+6;alicia keys;no one;2000;pop
+7;black eyed peas;boom boom pow;2000;pop
+8;mario;let me love you;2000;rock
+9;kanye west;gold digger;2000;rap
+10;timbaland;apologize;2000;rock
+1;lifehouse;hanging by a moment;2001;rock
+2;alicia keys;fallin;2001;pop
+3;janet;all for you;2001;pop
+4;train;drops of jupiter (tell me);2001;pop
+5;jennifer lopez feat. Ja rule;i'm real;2001;pop
+6;matchbox twenty;if you're gone;2001;rock
+7;eve feat.gwen stefani;let me blow ya mind;2001;rock
+8;dido;thank you;2001;rock
+9;lenny kravitz;again;2001;rock
+10;destiny's child;independent women part i;2001;rock
+1;nickelback;how you remind me;2002;rock
+2;ashanti;foolish;2002;pop
+3;nelly;hot in herre;2002;rock
+4;nelly featuring kelly rowland;dilemma;2002;pop
+5;the calling;wherever you will go;2002;pop
+6;vanessa carlton;a thousand miles;2002;rock
+7;linkin park;in the end;2002;rock
+8;fat joe featuring ashanti;what's luv?;2002;pop
+9;usher;u got it bad;2002;rap
+10;puddle of mudd;blurry;2002;rap
+1;50 cent;in da club;2003;rap
+2;r. Kelly;ignition;2003;rock
+3;sean paul;get busy;2003;rap
+4;beyonce featuring jay-z;crazy in love;2003;rap
+5;3 doors down;when i'm gone;2003;rock
+6;matchbox twenty;unwell;2003;rock
+7;chingy;right thurr;2003;pop
+8;aaliyah;miss you;2003;pop
+9;kid rock featuring sheryl crow;picture;2003;rock
+10;evanescence featuring paul mccoy;bring me to life;2003;rock
+1;usher featuring lil jon and ludacris;yeah!;2004;rap
+2;usher;burn;2004;rap
+3;alicia keys;if i ain't got you;2004;pop
+4;maroon 5;this love;2004;pop
+5;outkast featuring sleepy brown;the way you move;2004;rock
+6;hoobastank;the reason;2004;rock
+7;mario winans featuring enya and p. Diddy;i don't wanna know;2004;pop
+8;outkast;hey ya!;2004;rock
+9;ciara featuring petey pablo;goodies;2004;pop
+10;terror squad featuring fat joe and remy ma;lean back;2004;rap
+1;mariah carey;we belong together;2005;pop
+2;gwen stefani;hollaback girl;2005;pop
+3;mario;let me love you;2005;pop
+4;kelly clarkson;since u been gone;2005;pop
+5;ciara featuring missy elliott;1, 2 step;2005;pop
+6;kanye west featuring jamie foxx;gold digger;2005;rap
+7;green day;boulevard of broken dreams;2005;rock
+8;50 cent featuring olivia;candy shop;2005;rap
+9;the pussycat dolls featuring busta rhymes;don't cha;2005;pop
+10;kelly clarkson;behind these hazel eyes;2005;pop
+1;daniel powter;bad day;2006;rock
+2;sean paul;temperature;2006;pop
+3;nelly furtado featuring timbaland;promiscuous;2006;pop
+4;james blunt;you're beautiful;2006;pop
+5;shakira featuring wyclef jean;hips don't lie;2006;pop
+6;natasha bedingfield;unwritten;2006;pop
+7;gnarls barkley;crazy;2006;pop
+8;chamillionaire featuring krayzie bone;ridin;2006;rap
+9;justin timberlake featuring timbaland;sexyback;2006;rap
+10;beyonce featuring slim thug;check on it;2006;pop
+1;beyonce;irreplaceable;2007;pop
+2;rihanna featuring jay-z;umbrella;2007;pop
+3;gwen stefani featuring akon;the sweet escape;2007;pop
+4;fergie;big girls don't cry;2007;pop
+5;t-pain featuring yung joc;buy u a drank (shawty snappin');2007;rock
+6;carrie underwood;before he cheats;2007;rock
+7;plain white t's;hey there delilah;2007;pop
+8;akon featuring snoop dogg;i wanna love you;2007;rap
+9;nelly furtado;say it right;2007;pop
+10;fergie featuring ludacris;glamorous;2007;pop
+1;flo rida featuring t-pain;low;2008;pop
+2;leona lewis;bleeding love;2008;rock
+3;alicia keys;no one;2008;pop
+4;lil wayne featuring static major;lollipo;2008;rap
+5;timbaland featuring onerepublic;apologize;2008;rap
+6;jordin sparks and chris brown;no air;2008;rock
+7;sara bareilles;love song;2008;pop
+8;usher featuring young jeezy;love in this club;2008;rap
+9;chris brown;with you;2008;rap
+10;chris brown;with you;2008;rap
+1;the black eyed peas;boom boom pow;2009;pop
+2;lady gaga;poker face;2009;pop
+3;lady gaga featuring colby o'donis;just dance;2009;pop
+4;the black eyed peas;i gotta feeling;2009;pop
+5;taylor swift;love story;2009;pop
+6;flo rida;love story;2009;pop
+7;jason mraz;i'm yours;2009;pop
+8;beyonce;single ladies (put a ring on it);2009;pop
+9;kanye west;heartless;2009;rap
+10;the all-american rejects;gives you hell;2009;rock
+1;kesha;tik tok;2010;pop
+2;lady antebellum;need you now;2010;rock
+3;train;hey, soul sister;2010;pop
+4;katy perry featuring snoop dogg;california gurls;2010;pop
+5;usher featuring will.i.am;omg;2010;pop
+6;b.o.b featuring hayley williams;airplanes;2010;rock
+7;eminem featuring rihanna;love the way you lie;2010;rap
+8;lady gaga;bad romance;2010;pop
+9;taio cruz;dynamite;2010;pop
+10;taio cruz featuring ludacris;break your heart;2010;pop

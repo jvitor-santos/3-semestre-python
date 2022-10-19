@@ -1,0 +1,100 @@
+1;adele;rolling in the deep;2011;pop
+2;lmfao featuring lauren bennett and goonrock;party rock anthem;2011;rap
+3;katy perry;firework;2011;pop
+4;katy perry featuring kanye west;e.t.;2011;pop
+5;pitbull featuring ne-yo, afrojack and nayer;give me everything;2011;rap
+6;bruno mars;grenade;2011;pop
+7;ceelo green;forget you;2011;rap
+8;nicki minaj;super bass;2011;pop
+9;maroon 5 featuring christina aguilera;moves like jagger;2011;pop
+10;the black eyed peas;just can't get enough;2011;pop
+1;gotye featuring kimbra;somebody that i used to know;2012;rock
+2;carly rae jepsen;call me maybe;2012;pop
+3;fun featuring janelle monáe;we are young;2012;rock
+4;maroon 5 featuring wiz khalifa;payphone;2012;pop
+5;ellie goulding;lights;2012;pop
+6;the wanted;glad you came;2012;pop
+7;kelly clarkson;stronger (what doesn't kill you);2012;pop
+8;rihanna featuring calvin harris;we found love;2012;pop
+9;nicki minaj;starships;2012;pop
+10;one direction;what makes you beautiful;2012;pop
+1;macklemore & ryan lewis featuring wanz;thrift shop;2013;rap
+2;robin thicke featuring t.i. and pharrell williams;blurred lines;2013;pop
+3;imagine dragons;radioactive;2013;rock
+4;baauer;harlem shake;2013;pop
+5;macklemore & ryan lewis featuring ray dalton;can't hold us;2013;rap
+6;justin timberlake;mirrors;2013;pop
+7;pink featuring nate ruess;just give me a reason;2013;rock
+8;bruno mars;when i was your man;2013;pop
+9;florida georgia line featuring nelly;cruise;2013;pop
+10;katy perry;roar;2013;pop
+1;pharrell williams;happy;2014;rock
+2;katy perry featuring juicy j;dark horse;2014;pop
+3;john legend;all of me;2014;pop
+4;iggy azalea featuring charli xcx;fancy;2014;rap
+5;onerepublic;counting stars;2014;rock
+6;jason derulo featuring 2 chainz;talk dirty;2014;pop
+7;magic!;rude;2014;pop
+8;meghan trainor;all about that bass;2014;pop
+9;ariana grande featuring iggy azalea;problem;2014;pop
+10;sam smith;stay with me;2014;pop
+1;mark ronson featuring bruno mars;uptown funk;2015;rock
+2;ed sheeran;thinking out loud;2015;pop
+3;wiz khalifa featuring charlie puth;see you again;2015;rap
+4;fetty wap;trap queen;2015;rap
+5;maroon 5;sugar;2015;pop
+6;walk the moon;shut up and dance;2015;pop
+7;taylor swift;blank space;2015;pop
+8;silento;watch me;2015;pop
+9;the weeknd;earned it;2015;rap
+10;the weeknd;the hills;2015;rap
+1;justin bieber;love yourself;2016;pop
+2;justin bieber;sorry;2016;pop
+3;drake featuring wizkid and kyla;one dance;2016;rap
+4;rihanna featuring drake;work;2016;pop
+5;twenty one pilots;stressed out;2016;pop
+6;desiigner;panda;2016;rap
+7;adele;hello;2016;pop
+8;the chainsmokers featuring daya;don't let me down;2016;pop
+9;justin timberlake;can't stop the feeling!;2016;pop
+10;the chainsmokers featuring halsey;closer;2016;pop
+1;ed sheeran;shape of you;2017;pop
+2;luis fonsi and daddy yankee featuring justin bieber;despacito (remix);2017;rap
+3;bruno mars;that's what i like;2017;pop
+4;kendrick lamar;humble;2017;rap
+5;the chainsmokers and coldplay;something just like this;2017;pop
+6;migos featuring lil uzi vert;bad and boujee;2017;rap
+7;the chainsmokers featuring halsey;closer;2017;pop
+8;sam hunt;body like a back road;2017;pop
+9;imagine dragons;believer;2017;rock
+10;post malone featuring quavo;congratulations;2017;rap
+1;drake;god's plan;2018;rap
+2;ed sheeran;perfect;2018;pop
+3;bebe rexha featuring florida georgia line;meant to be;2018;pop
+4;camila cabello featuring young thug;havana;2018;pop
+5;post malone featuring 21 savage;rockstar;2018;rap
+6;post malone featuring ty dolla sign;psycho;2018;rap
+7;cardi b, bad bunny and j balvin;i like it;2018;rap
+8;zedd, maren morris and grey;the middle;2018;pop
+9;drake;in my feelings;2018;rap
+10;maroon 5 featuring cardi b;girls like you;2018;pop
+1;lil nas x featuring billy ray cyrus;old town road;2019;rap
+2;post malone and swae lee;sunflower;2019;rap
+3;halsey;without me;2019;pop
+4;billie eilish;bad guy;2019;pop
+5;post malone;wow;2019;rap
+6;marshmello and bastille;happier;2019;rap
+7;ariana grande;7 rings;2019;pop
+8;khalid;talk;2019;pop
+9;travis scott;sicko mode;2019;rap
+10;jonas brothers;sucker;2019;rock
+1;the weeknd;blinding lights;2020;rap
+2;post malone;circles;2020;rap
+3;roddy ricch;the box;2020;pop
+4;dua lipa;don't start now;2020;pop
+5;dababy featuring roddy ricch;rockstar;2020;rap
+6;harry styles;adore you;2020;pop
+7;future featuring drake;life is good;2020;rap
+8;maroon 5;memories;2020;pop
+9;maren morris;the bones;2020;pop
+10;lewis capaldi;someone you loved;2020;pop

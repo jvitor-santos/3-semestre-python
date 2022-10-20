@@ -1,1 +1,1 @@
-# 3 Semestre da Faculdade
+# 3º Semestre da Faculdade
